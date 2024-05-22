@@ -1,0 +1,11 @@
+apiVersion: v2 
+name: poem_chart
+version: 0.0.1
+description: Helm chart for deploying npv_poem_generation 
+type: application
+
+maintainers:
+  - name: Dat Nguyen  
+    email: voltanguyen11@gmail.com  
+
+appVersion: '1.0.0'

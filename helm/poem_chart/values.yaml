@@ -1,0 +1,4 @@
+image:
+  repository: duydat11/poem-gpt
+  tag: "latest"
+  pullPolicy: Always

@@ -1,0 +1,138 @@
+/opt/conda/lib/python3.10/site-packages/torch/_utils.py:831: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1261 entries, 0 to 1260
+Data columns (total 5 columns):
+ #   Column             Non-Null Count  Dtype
+---  ------             --------------  -----
+ 0   Title              1261 non-null   object
+ 1   Content            1261 non-null   object
+ 2   Poetry Collection  1261 non-null   object
+ 3   URL                1261 non-null   object
+ 4   Writer             1261 non-null   object
+dtypes: object(5)
+memory usage: 49.4+ KB
+Đâu phải lỗi của người ta
+khi trả lại chiếc chìa khoá cho ngôi nhà
+Những bước chân từ nay không còn đến lượt mình hỏi sẽ còn đi bao xa
+chiếc ba lô cũng chẳng cần ai sắp xếp
+mặc áo lệch vai hay móng tay dài bụi bám
+chắc người ta tự biết
+phải nên làm thế nào
+Rời khỏi ngôi nhà mà người từng quyết định bước vào
+lúc bỏ đôi giày vẫn mang bên ngoài ngạch cửa
+cuộc đời thênh thang nên không ai là không đi tìm một điểm tựa
+nhưng cuộc đời đâu chỉ là thương nhớ
+nuôi ấm áp từng ngày
+Người trả lại chiếc chìa khoá bằng cả hai bàn tay
+song trên môi là lặng im khép cửa
+không cần biết trái tim người kia ngân lên bao nhịp đổ vỡ
+ngưng đọng bao nhiêu giây trong một hơi thở
+rồi cứ thế quay lưng
+Rồi cứ thế để lại ngôi nhà phía sau cả một bóng tối chập chùng
+những đêm trắng triền miên với vạn ngàn câu hỏi
+cứ ước gì bình minh bắt đầu vào lúc hoàng hôn về tới
+mình chỉ cần thay đồ và mặc vào áo mới
+mặc kệ lòng đau nhói
+lúc bước ra với đời kia
+Còn người ta không ai biết đến bao giờ trở về
+hay sẽ là bỏ lại đôi giày ở bên ngoài ngạch cửa một ngôi nhà khác
+những yêu thương luôn bắt đầu từ vài điều đơn giản
+nên làm sao biết được nước mắt
+sẽ rơi xuống khi nào
+Đâu phải lỗi của người ta
+là lỗi của ngôi nhà đã làm mình đau
+['Nơi này còn cần một người để lau nước mắt', 'cần một tiếng thở dài đồng cảm', 'cần một cái lay vai thức tỉnh']
+There were missing keys in the checkpoint model loaded: ['lm_head.weight'].
+Mấy năm rồi
+đước cùng rối trên đôi má đỏ
+lúc đứng dậy nhìn gương mặt
+chúng ta sẽ đến với nơi đây
+Mấy năm rồi
+Con xa ngường xa
+Chịu trách mình đã không lửa
+Mẹ ơi yên lòng mời xa
+Mấy năm rồi vậy em
+Em thấy thế
+Ôi má má má má má má má ở
+Xa nhau bao nhiêu cũng không hước đâu
+Đi qua thương nhớ
+Nghe chuyển mưa vẫn lạnh
+L dẻ hồn nghe tiếng trẻ khóc
+Tiếng khóc reo lên rượa
+Trên đỏ biếc có sao mà lòng ngọc
+Đành nghèo biết làm gì
+Đi qua thương nhớ
+Mà vẫn còn ai dám đi xa
+/opt/conda/lib/python3.10/site-packages/transformers/generation/configuration_utils.py:497: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.95` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Đi qua thương nhớ
+Để mình sẽ đi qua
+Những người về
+Đi qua thương nhớ
+Để mình sẽ đi qua
+Những người về
+Đi qua thương nhớ về
+Những con đường không phải là những lời
+Không phải là những lối
+Đước mắt nhìn vào một con người
+Vẫn nhớ những buổi sáng đó
+cho đến khi cuối cùng
+Vẫn nhớ những buổi sáng đó
+cho đến khi cuối cùng
+Vẫn nhớ những buổi sáng đó
+cho đến khi cuối cùng
+Vẫn nhớ những buổi sáng đó lửa mặt ta
+Không dám ngỡ ra
+Đi qua thương nhớ ấy
+chúng ta đã đến thức này để chuyện nhau
+Vẫn nhớ những buổi sáng đó vẫn sáng dậy
+Để đi nhưng vẫn muốn quay ngang
+Những tên lãng mạn nhưng ai oán
+Thấp thoáng thấy thương lắm những ai lửa
+Ta mong nhớ trong những buổi sáng ấy
+Vẫn nhớ những buổi sáng đó lệnh ngợi
+Tôi tội về cho riêng mình mà nhiều thế giới vừa lên tuổi từng
+Mà lòng ta mỗi buống như tiếng chuông reo tủi diệt một
+Ai có thể hiện thương
+Vẫn nhớ những buổi sáng đó chúng ta sẽ đi tìm một nổi thay
+cuộc đời bình yên đến bao giờ sống
+một niềm vui không cần buồn chỉ là mình bước lên sóng
+mà chúng ta từng nổi
+một cuộc đời duy nhất
+Đến bao lâu thì sẽ dừng đi
+Chúng ta đã biết làm trời này ngồi từ đó
+chúng ta đã yêu nhau đều mình không còn gì nước mắt
+đã yêu nhau mới biết đến bao nhiêu lần
+nhưng mà về sau
+Đến bao lâu thì sẽ dừng lại hết một ngày tháng khó khăn
+những thức đợi chỉ ước mơ hờ mới biết mình có còn mạnh mẽ
+đã chết đi và đã quên đi mà không cần phải sợ nước
+vì cứ khóc cho mình còn hơn là nghĩ cho ai khác
+là mình để cho trái tim mình được sống
+cho nỗi nhớ biết phải làm gì
+Đến bao lâu thì sẽ dừng lại hết những hoang vắng
+và tận bao dưới biếc hơn nước mắt
+nói cách khác là nhớ nhỏ mình phải biết
+mà quên mất
+vẫn còn bớt mơ
+Đến bao lâu thì sẽ dừng đến vườn lá thay
+nhìn thế giới này như một vọng nhau thấy bóng tối
+khi người ta bước qua trời trở nhìn vô hạn
+lúc mình chết đi nhưng hồi nơi kia
+đã nhìn thấy nhau
+Đến bao lâu thì sẽ dừng thương yêu
+khi chuyện của một người mà không ai tin vào đường
+có khi là rơi xuống mỗi lúc tốt bình yên
+Đến bao lâu thì sẽ dừng lại nhớ
+khi người đi qua cũng sẽ bắt đầu một quãng đợi
+chước mắt đã biết cách yêu thương không còn phải cứ nhắm mở
+vì chưa bao giờ thức nào khác
+hãy chuyện cách ta đi
+zip error: Nothing to do! (/kaggle/working/wandb.zip)
+zip error: Nothing to do! (/kaggle/working/wandb.zip)
+	zip warning: name not matched: wandb.zip
+zip error: Nothing to do! (/kaggle/working/wandb.zip)
+  adding: kaggle/working/wandb/ (stored 0%)
+  adding: kaggle/working/wandb/ (stored 0%)
+updating: kaggle/working/wandb/ (stored 0%)
